@@ -1,0 +1,5 @@
+seed: 42
+trials: 20
+n_robots: 5
+n_tasks: 5
+output_dir: results
